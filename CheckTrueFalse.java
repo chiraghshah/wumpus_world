@@ -1,6 +1,7 @@
 /**
  * 
- * @author Chirag Shah..
+ @author James Spargo // original author
+ @author Chirag Shah // edited related changes..
  *
  */
 import java.io.*;
